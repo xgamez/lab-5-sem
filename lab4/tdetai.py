@@ -1,4 +1,4 @@
-from behave import *
+
 from detai import RoundDetail
 from detai import RoundHole
 from detai import SquareDetail
